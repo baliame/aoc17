@@ -42,6 +42,8 @@ setup(
             'aoc6b=aoc17.day6:main2',
             'aoc7=aoc17.day7:main',
             'aoc7b=aoc17.day7:main2',
+            'aoc8=aoc17.day8:main',
+            'aoc8b=aoc17.day8:main2',
         ],
     }
 )
